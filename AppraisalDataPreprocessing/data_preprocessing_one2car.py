@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Read Data
-df = pd.read_csv('../WebScrapData/One2Car/Data.csv')
+df = pd.read_csv(r'C:\Users\nonew\Desktop\Capstone\Project\WebScrapData\One2Car\Data.csv')
 
 # Change 'cost' col
 df['cost'] = df['cost'].apply(lambda x : x.replace(',',''))
@@ -66,7 +66,7 @@ def check_model(name):
 df['model'] = df['name'].apply(check_model)
 
 # sub_model
-sub_models = ['1.1', '1.3', '1.4', '1.5', '1.6', '1.8', '1.9', '2.0', '2.2', '2.3', '2.5', '2.9', '3.2', '3.7']
+sub_models = ['0.8', '1.1', '1.3', '1.4', '1.5', '1.6', '1.8', '1.9', '2.0', '2.2', '2.3', '2.5', '2.9', '3.2', '3.7']
 def check_sub_model(name):
     name = name.split(' ')
     for i in range(len(name)):
@@ -76,7 +76,7 @@ def check_sub_model(name):
 df['sub_model'] = df['name'].apply(check_sub_model)
 
 # car_type
-car_types = ['Sedan', 'Pickup', 'Hatchback', 'SUV', 'Convertible']
+car_types = ['Sedan', 'Pickup', 'Hatchback', 'SUV', 'Convertible', 'Coupe']
 def check_car_type(name):
     name = name.split(' ')
     for i in range(len(name)):
