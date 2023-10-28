@@ -1,0 +1,292 @@
+id,name,price,salePrice,distance,fuel,color,address,injure,web,webid,date
+1,2019 Mazda CX-5 TURBO SP (4WD) 2.5,"1,240,900 บาท","922,900
+          บาท","77,291",เบนซิน,ดำ,"CARSOME Bangbon, Bang Bon",ประตูหน้าซ้าย ประตูหน้าซ้ายสีด่าง แก้มหลังขวา แก้มหลังขวามีรอยกระเทาะ,carsome,"buy-car/mazda/cx-5/2019-mazda-cx-5-turbo-sp--4wd--2.5/c2r3000
+",2023-10-28
+2,2019 Mazda CX-5 TURBO SP (4WD) 2.5,"1,231,900 บาท","922,900
+          บาท","24,085",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/cx-5/2019-mazda-cx-5-turbo-sp--4wd--2.5/cdx3000
+",2023-10-28
+3,2019 Mazda CX-5 XD 2.2,"1,012,900 บาท","917,900
+          บาท","85,775",เบนซิน,ขาว,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/cx-5/2019-mazda-cx-5-xd-2.2/cy14000
+",2023-10-28
+4,2019 Mazda 3 SP 2.0,"798,900 บาท","753,900
+          บาท","63,437",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2019-mazda-3-sp-2.0/c5a4000
+",2023-10-28
+5,2013 Mazda 3 MAXX SPORTS 2.0,"332,900 บาท","321,900
+          บาท","126,868",เบนซิน,ขาว,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/3/2013-mazda-3-maxx-sports-2.0/cf64000
+",2023-10-28
+6,2017 Mazda 2 HIGH PLUS 1.3,"402,900 บาท","397,900
+          บาท","147,076",เบนซิน,น้ำเงิน,"CARSOME Bangyai, Pak Kret",ระบบสตาร์ท ระบบ i-Stop ไม่ทำงาน เนื่องจากปิดระบบมา,carsome,"buy-car/mazda/2/2017-mazda-2-high-plus-1.3/cy94000
+",2023-10-28
+7,2019 Mazda 3 SP 2.0,"800,900 บาท","777,900
+          บาท","89,810",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2019-mazda-3-sp-2.0/c2c4000
+",2023-10-28
+8,2018 Mazda CX-3 S 2.0,"588,900 บาท","571,900
+          บาท","69,436",เบนซิน,น้ำตาล,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/cx-3/2018-mazda-cx-3-s-2.0/chc4000
+",2023-10-28
+9,2020 Mazda CX-30 SP 2.0,"859,900 บาท","758,900
+          บาท","65,472",เบนซิน,ขาว,"CARSOME Bangyai, Pak Kret",ผ้าบุหลังคา ผ้าบุหลังคามีคราบฝังแน่น,carsome,"buy-car/mazda/cx-30/2020-mazda-cx-30-sp-2.0/cx54000
+",2023-10-28
+10,2015 Mazda 2 SKYACTIV XD SPORTS HIGH PLUS 1.5,"393,900 บาท","366,900
+          บาท","149,669",ดีเซล,ขาว,"CARSOME Srinagarindra, Pra Vet",ช่องปรับอากาศด้านหน้า ช่องลมแอร์ตำแหน่งกลางปิดไม่ได้ กระจกมองหลัง กระจกมองหลังเสื่อมสภาพ น้ำมันเกียร์ อ่างน้ำมันเกียร์บุบ,carsome,"buy-car/mazda/2/2015-mazda-2-skyactiv-xd-sports-high-plus-1.5/cd64000
+",2023-10-28
+11,2017 Mazda 2 XD HIGH PLUS L 1.5,"461,900 บาท","456,900
+          บาท","78,396",ดีเซล,ดำ,"CARSOME Bangbon, Bang Bon",เครื่องเล่นวิทยุ ระบบสัมผัสบนจอเครื่องเล่นวิทยุไม่ทำงาน,carsome,"buy-car/mazda/2/2017-mazda-2-xd-high-plus-l-1.5/c9c4000
+",2023-10-28
+12,2018 Mazda 2 HIGH PLUS 1.3,"430,900 บาท","394,900
+          บาท","62,389",เบนซิน,แดง,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2018-mazda-2-high-plus-1.3/c4b4000
+",2023-10-28
+13,2019 Mazda 3 SP SPORTS 2.0,"810,900 บาท","778,900
+          บาท","65,827",เบนซิน,เทา,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/3/2019-mazda-3-sp-sports-2.0/cl84000
+",2023-10-28
+14,2016 Mazda 2 HIGH CONNECT 1.3,"362,900 บาท","357,900
+          บาท","152,046",เบนซิน,แดง,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2016-mazda-2-high-connect-1.3/c7b4000
+",2023-10-28
+15,2017 Mazda 3 S SPORTS 2.0,"544,900 บาท","528,900
+          บาท","104,818",เบนซิน,น้ำตาล,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/3/2017-mazda-3-s-sports-2.0/cvb4000
+",2023-10-28
+16,2015 Mazda 2 SKYACTIV XD SPORTS HIGH PLUS 1.5,"393,900 บาท","388,900
+          บาท","126,830",ดีเซล,แดง,"CARSOME Ratchayothin, Lat Phrao",กระจังหน้า กระจังหน้ามีรอยแตก กระจกประตูหลังขวา กระจกประตูหลังขวามีรอยขีด คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ถูกปิด ใช้งานไม่ได้,carsome,"buy-car/mazda/2/2015-mazda-2-skyactiv-xd-sports-high-plus-1.5/c5g4000
+",2023-10-28
+17,2018 Mazda BT-50 PRO FREESTYLE CAB V 2.2,"361,900 บาท","350,900
+          บาท","44,110",ดีเซล,เทา,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/bt-50-pro/2018-mazda-bt-50-pro-freestyle-cab-v-2.2/cdc4000
+",2023-10-28
+18,2016 Mazda 2 SKYACTIV XD SPORTS HIGH PLUS L 1.5,"409,900 บาท","384,900
+          บาท","104,071",ดีเซล,น้ำเงิน,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2016-mazda-2-skyactiv-xd-sports-high-plus-l-1.5/c674000
+",2023-10-28
+19,2019 Mazda 3 SP SPORTS 2.0,"682,900 บาท","661,900
+          บาท","69,711",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",เบรคมือ เบรคมือไฟฟ้ามีเสียงดัง แต่ใช้งานได้ปกติ,carsome,"buy-car/mazda/3/2019-mazda-3-sp-sports-2.0/c2g4000
+",2023-10-28
+20,2017 Mazda 3 S SPORTS 2.0,"544,900 บาท","528,900
+          บาท","162,276",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",กระจกหน้า กระจกหน้ามีรอยกระเทาะ กระจกหน้า กระจกหน้ามีรอยกระเทาะ,carsome,"buy-car/mazda/3/2017-mazda-3-s-sports-2.0/cae4000
+",2023-10-28
+21,2017 Mazda 2 HIGH CONNECT 1.3,"388,900 บาท","383,900
+          บาท","129,834",เบนซิน,เทา,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2017-mazda-2-high-connect-1.3/cje4000
+",2023-10-28
+22,2019 Mazda 2 SPORTS HIGH PLUS 1.3,"437,900 บาท","432,900
+          บาท","21,505",เบนซิน,เทา,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-plus-1.3/ccf4000
+",2023-10-28
+23,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","39,806",เบนซิน,น้ำเงิน,"CARSOME Srinagarindra, Pra Vet",กระจกหน้า กระจกหน้ามีรอยกระเทาะและรอยขีด กระจกหน้า กระจกหน้ามีรอยกระเทาะและรอยขีด กระจกประตูหน้าซ้าย กระจกประตูหน้าซ้ายมีรอยขีด,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cdg4000
+",2023-10-28
+24,2018 Mazda 2 SPORTS HIGH CONNECT 1.3,"406,900 บาท","401,900
+          บาท","66,111",เบนซิน,ขาว,"CARSOME Srinagarindra, Pra Vet",ไฟหน้า ไฟหน้าซ้ายมีรอยขีด,carsome,"buy-car/mazda/2/2018-mazda-2-sports-high-connect-1.3/ctg4000
+",2023-10-28
+25,2020 Mazda 2 SP SPORTS (HATCHBACK) 1.3,"493,900 บาท","488,900
+          บาท","42,409",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2020-mazda-2-sp-sports--hatchback--1.3/clh4000
+",2023-10-28
+26,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","89,748",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cfi4000
+",2023-10-28
+27,2015 Mazda 2 SPORTS XD HIGH PLUS 1.5,"393,900 บาท","388,900
+          บาท","135,851",ดีเซล,แดง,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2015-mazda-2-sports-xd-high-plus-1.5/cff4000
+",2023-10-28
+28,2020 Mazda CX-30 SP 2.0,"851,900 บาท","826,900
+          บาท","18,935",เบนซิน,เทา,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/cx-30/2020-mazda-cx-30-sp-2.0/c6g4000
+",2023-10-28
+29,2017 Mazda 2 SPORTS HIGH CONNECT 1.3,"381,900 บาท","376,900
+          บาท","176,187",เบนซิน,ขาว,"CARSOME Srinagarindra, Pra Vet",คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ใช้งานไม่ได้ เนื่องจากถูกปิดระบบมา,carsome,"buy-car/mazda/2/2017-mazda-2-sports-high-connect-1.3/cni4000
+",2023-10-28
+30,2019 Mazda 2 S (LEATHER) 1.3,"467,900 บาท","462,900
+          บาท","65,212",เบนซิน,ดำ,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-s--leather--1.3/coj4000
+",2023-10-28
+31,2019 Mazda 2 HIGH CONNECT 1.3,"423,900 บาท","418,900
+          บาท","71,152",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/crj4000
+",2023-10-28
+32,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","54,754",เบนซิน,แดง,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cbg4000
+",2023-10-28
+33,2019 Mazda 2 HIGH CONNECT 1.3,"423,900 บาท","418,900
+          บาท","31,925",เบนซิน,แดง,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/c9j4000
+",2023-10-28
+34,2020 Mazda 2 SP 1.3,"477,900 บาท","472,900
+          บาท","66,482",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2020-mazda-2-sp-1.3/c0h4000
+",2023-10-28
+35,2017 Mazda 2 XD HIGH PLUS L 1.5,"435,900 บาท","430,900
+          บาท","86,480",ดีเซล,เทา,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2017-mazda-2-xd-high-plus-l-1.5/cyh4000
+",2023-10-28
+36,2018 Mazda 2 HIGH CONNECT 1.3,"398,900 บาท","393,900
+          บาท","94,262",เบนซิน,ขาว,"CARSOME Rangsit, Khlong Luang",คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ใช้งานไม่ได้ เนื่องจากถูกปิดระบบมา,carsome,"buy-car/mazda/2/2018-mazda-2-high-connect-1.3/czh4000
+",2023-10-28
+37,2021 Mazda 2 C 1.3,"455,900 บาท","450,900
+          บาท","28,527",เบนซิน,ดำ,"CARSOME Bangbon, Bang Bon",ไฟท้าย ไฟท้ายด้านขวาในฝากระโปรงหลังแตก,carsome,"buy-car/mazda/2/2021-mazda-2-c-1.3/cai4000
+",2023-10-28
+38,2021 Mazda 2 S SPORTS (LEATHER) 1.3,"488,900 บาท","483,900
+          บาท","16,476",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/2/2021-mazda-2-s-sports--leather--1.3/cpi4000
+",2023-10-28
+39,2017 Mazda 3 S SPORTS 2.0,"544,900 บาท","528,900
+          บาท","123,019",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2017-mazda-3-s-sports-2.0/cmb4000
+",2023-10-28
+40,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","47,843",เบนซิน,แดง,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cxj4000
+",2023-10-28
+41,2017 Mazda 2 XD HIGH CONNECT 1.5,"422,900 บาท","417,900
+          บาท","80,284",ดีเซล,น้ำตาล,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2017-mazda-2-xd-high-connect-1.5/c1i4000
+",2023-10-28
+42,2021 Mazda CX-30 SP 2.0,"885,900 บาท","880,900
+          บาท","27,986",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/cx-30/2021-mazda-cx-30-sp-2.0/coi4000
+",2023-10-28
+43,2017 Mazda 2 SPORTS HIGH PLUS 1.3,"402,900 บาท","397,900
+          บาท","101,186",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",กระจกหน้า กระจกหน้ามีรอยขีด กระจกประตูหลังขวา กระจกประตูหลังขวามีรอยขีด กระจกประตูหลังซ้าย กระจกประตูหลังซ้ายมีรอยขีด คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ถูกปิด,carsome,"buy-car/mazda/2/2017-mazda-2-sports-high-plus-1.3/cik4000
+",2023-10-28
+44,2019 Mazda 2 HIGH CONNECT 1.3,"423,900 บาท","418,900
+          บาท","59,432",เบนซิน,น้ำเงิน,"CARSOME Bangyai, Pak Kret",กระจกประตูหลังขวา กระจกประตูหลังขวามีรอยขีด หน้าจอแสดงผลมัลติฟังก์ชั่น ระบบ i-stop ปิดมาใช้งานไม่ได้,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/cal4000
+",2023-10-28
+45,2020 Mazda 2 E 1.3,"409,900 บาท","404,900
+          บาท","35,144",เบนซิน,ขาว,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2020-mazda-2-e-1.3/cok4000
+",2023-10-28
+46,2018 Mazda 2 HIGH CONNECT 1.3,"398,900 บาท","393,900
+          บาท","105,888",เบนซิน,ขาว,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2018-mazda-2-high-connect-1.3/cmk4000
+",2023-10-28
+47,2019 Mazda 2 S SPORTS (LEATHER) 1.3,"457,900 บาท","452,900
+          บาท","67,707",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",กระจังหน้า ไม่มีแผ่นปิดกระจังหน้าด้านล่าง ไฟท้าย ไฟท้ายด้านซ้ายมีรอยแตก ไฟท้าย ไฟท้ายด้านซ้ายมีรอยแตก,carsome,"buy-car/mazda/2/2019-mazda-2-s-sports--leather--1.3/csl4000
+",2023-10-28
+48,2019 Mazda 2 HIGH CONNECT 1.3,"423,900 บาท","418,900
+          บาท","96,720",เบนซิน,น้ำตาล,"CARSOME Bangyai, Pak Kret",กระจังหน้า โลโก้บนกระจังหน้าเป็นรอย ไฟหน้า ไฟหน้าซ้ายแตกลาย กระจกมองหลัง ขอบกระจกมองหลังเสื่อมสภาพ,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/cco4000
+",2023-10-28
+49,2013 Mazda 2 ELEGANCE (SEDAN) SPIRIT 1.5,"250,900 บาท","245,900
+          บาท","162,364",เบนซิน,เทา,"CARSOME Bangbon, Bang Bon",คอนโซลหน้า / แผงควบคุม ตัววัดระยะเซ็นเซอร์ถอยหลังไฟไม่ขึ้น แต่ใช้งานได้,carsome,"buy-car/mazda/2/2013-mazda-2-elegance--sedan--spirit-1.5/chn4000
+",2023-10-28
+50,2017 Mazda 2 HIGH PLUS 1.3,"402,900 บาท","397,900
+          บาท","124,692",เบนซิน,น้ำตาล,"CARSOME Srinagarindra, Pra Vet",กระจกประตูหลังขวา กระจกประตูหลังขวามีรอยขีด กระจกประตูหลังซ้าย กระจกประตูหลังซ้ายมีรอยขีด คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ถูกปิดมา,carsome,"buy-car/mazda/2/2017-mazda-2-high-plus-1.3/cdn4000
+",2023-10-28
+51,2015 Mazda 3 S 2.0,"438,900 บาท","433,900
+          บาท","152,732",เบนซิน,เทา,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/3/2015-mazda-3-s-2.0/cjn4000
+",2023-10-28
+52,2018 Mazda 3 E 2.0,"470,900 บาท","465,900
+          บาท","76,916",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2018-mazda-3-e-2.0/c5n4000
+",2023-10-28
+53,2019 Mazda 3 SP SPORTS 2.0,"816,900 บาท","811,900
+          บาท","37,331",เบนซิน,เทา,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2019-mazda-3-sp-sports-2.0/cbp4000
+",2023-10-28
+54,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","86,280",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",ไฟท้าย ฝาครอบกรอบไฟท้ายด้านซ้ายไม่มี,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cbm4000
+",2023-10-28
+55,2014 Mazda 3 S SPORTS 2.0,"423,900 บาท","418,900
+          บาท","118,483",เบนซิน,น้ำตาล,"CARSOME Rangsit, Khlong Luang",กระจกหน้า กระจกหน้ามีรอยขีด กระจกประตูหลังซ้าย กระจกประตูหลังซ้ายมีรอยขีด เครื่องเล่นวิทยุ จอใช้งานระบบ Touch Screen ไม่ได้,carsome,"buy-car/mazda/3/2014-mazda-3-s-sports-2.0/cdm4000
+",2023-10-28
+56,2017 Mazda 2 HIGH CONNECT 1.3,"382,900 บาท","377,900
+          บาท","171,246",เบนซิน,แดง,"CARSOME Srinagarindra, Pra Vet",กันชนหน้า สเกิร์ตหน้าไม่มี กระจกประตูหลังซ้าย กระจกประตูหลังซ้ายมีรอยขีด,carsome,"buy-car/mazda/2/2017-mazda-2-high-connect-1.3/cxn4000
+",2023-10-28
+57,2018 Mazda 2 SPORTS HIGH CONNECT 1.3,"411,900 บาท","406,900
+          บาท","87,593",เบนซิน,เทา,"CARSOME Bangbon, Bang Bon",หัวเกียร์ ปุ่มชิฟท์เกียร์ไม่มี คอนโซลหน้า / แผงควบคุม ระบบ i-Stop ถูกปิด,carsome,"buy-car/mazda/2/2018-mazda-2-sports-high-connect-1.3/cyo4000
+",2023-10-28
+58,2018 Mazda 2 SPORTS HIGH CONNECT 1.3,"410,900 บาท","405,900
+          บาท","71,139",เบนซิน,เทา,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2018-mazda-2-sports-high-connect-1.3/cqp4000
+",2023-10-28
+59,2016 Mazda 3 SP SPORTS 2.0,"465,900 บาท","460,900
+          บาท","119,763",เบนซิน,แดง,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/3/2016-mazda-3-sp-sports-2.0/cdp4000
+",2023-10-28
+60,2016 Mazda 3 S SPORTS 2.0,"438,900 บาท","433,900
+          บาท","127,555",เบนซิน,เทา,"CARSOME Srinagarindra, Pra Vet",กระจกหน้า กระจกหน้ามีรอยกระเทาะ,carsome,"buy-car/mazda/3/2016-mazda-3-s-sports-2.0/c8r4000
+",2023-10-28
+61,2020 Mazda 2 S (LEATHER) 1.3,"484,900 บาท","479,900
+          บาท","65,779",เบนซิน,น้ำตาล,"CARSOME Bangbon, Bang Bon",ไฟท้าย ไฟท้ายซ้ายมีรอยร้าว,carsome,"buy-car/mazda/2/2020-mazda-2-s--leather--1.3/cgo4000
+",2023-10-28
+62,2013 Mazda 2 GROOVE SPORTS (HATCHBACK) 1.5,"243,900 บาท","238,900
+          บาท","144,090",เบนซิน,ดำ,"CARSOME Ratchayothin, Lat Phrao",กระจกประตูหน้าขวา กระจกประตูหน้าขวามีรอยขีด กระจกประตูหน้าซ้าย กระจกประตูหน้าซ้ายมีรอยขีด,carsome,"buy-car/mazda/2/2013-mazda-2-groove-sports--hatchback--1.5/ckk4000
+",2023-10-28
+63,2017 Mazda 2 SPORTS HIGH 1.3,"368,900 บาท","363,900
+          บาท","154,705",เบนซิน,เทา,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2017-mazda-2-sports-high-1.3/cqk4000
+",2023-10-28
+64,2019 Mazda 2 HIGH CONNECT 1.3,"423,900 บาท","418,900
+          บาท","73,842",เบนซิน,แดง,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/cyl4000
+",2023-10-28
+65,2017 Mazda 2 HIGH PLUS 1.3,"402,900 บาท","397,900
+          บาท","170,964",เบนซิน,ดำ,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/2/2017-mazda-2-high-plus-1.3/cki4000
+",2023-10-28
+66,2016 Mazda 2 HIGH CONNECT 1.3,"358,900 บาท","353,900
+          บาท","69,544",เบนซิน,น้ำตาล,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/2/2016-mazda-2-high-connect-1.3/c5r4000
+",2023-10-28
+67,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,"426,900 บาท","421,900
+          บาท","27,977",เบนซิน,ขาว,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cmp4000
+",2023-10-28
+68,2018 Mazda 2 HIGH CONNECT 1.3,"400,900 บาท","395,900
+          บาท","142,165",เบนซิน,น้ำเงิน,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2018-mazda-2-high-connect-1.3/ceq4000
+",2023-10-28
+69,2019 Mazda 2 HIGH CONNECT 1.3,-,"418,900
+          บาท","87,496",เบนซิน,แดง,-,,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/c0n4000
+",2023-10-28
+70,2017 Mazda 2 XD 1.5,-,"380,900
+          บาท","72,562",เบนซิน,แดง,-,,carsome,"buy-car/mazda/2/2017-mazda-2-xd-1.5/cxq4000
+",2023-10-28
+71,2016 Mazda 2 XD HIGH PLUS 1.5,-,"380,900
+          บาท","136,222",ดีเซล,แดง,-,,carsome,"buy-car/mazda/2/2016-mazda-2-xd-high-plus-1.5/cvo4000
+",2023-10-28
+72,2019 Mazda 2 HIGH CONNECT 1.3,-,"417,900
+          บาท","57,438",เบนซิน,ดำ,-,,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/ctp4000
+",2023-10-28
+73,2017 Mazda 2 SPORTS HIGH CONNECT 1.3,-,"376,900
+          บาท","103,331",เบนซิน,แดง,-,,carsome,"buy-car/mazda/2/2017-mazda-2-sports-high-connect-1.3/ciq4000
+",2023-10-28
+74,2014 Mazda 3 SP SPORTS 2.0,-,"450,900
+          บาท","102,206",เบนซิน,ฟ้า,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/3/2014-mazda-3-sp-sports-2.0/cpo3000
+",2023-10-28
+75,2014 Mazda 3 SP SPORTS 2.0,-,"450,900
+          บาท","165,945",เบนซิน,แดง,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/3/2014-mazda-3-sp-sports-2.0/cgv3000
+",2023-10-28
+76,2018 Mazda 3 E 2.0,-,"558,900
+          บาท","142,911",เบนซิน,เทา,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/3/2018-mazda-3-e-2.0/ce04000
+",2023-10-28
+77,2016 Mazda CX-3 E 2.0,-,"425,900
+          บาท","77,190",เบนซิน,น้ำตาล,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/cx-3/2016-mazda-cx-3-e-2.0/cm64000
+",2023-10-28
+78,2017 Mazda 2 XD HIGH CONNECT 1.5,-,"434,900
+          บาท","148,374",ดีเซล,ดำ,"CARSOME Srinagarindra, Pra Vet",กระจกประตูหน้าซ้าย กระจกประตูหน้าซ้ายมีรอยขีด กระจกประตูหลังขวา กระจกประตูหลังขวามีรอยขีด,carsome,"buy-car/mazda/2/2017-mazda-2-xd-high-connect-1.5/cf44000
+",2023-10-28
+79,2019 Mazda BT-50 PRO FREESTYLE CAB HI-RACER 2.2,-,"386,900
+          บาท","56,230",ดีเซล,น้ำตาล,"CARSOME Srinagarindra, Pra Vet",กระจกหลัง กระจกหลังมีรอยขีด,carsome,"buy-car/mazda/bt-50-pro/2019-mazda-bt-50-pro-freestyle-cab-hi-racer-2.2/cj44000
+",2023-10-28
+80,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,-,"432,900
+          บาท","90,375",เบนซิน,แดง,"CARSOME Bangyai, Pak Kret",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cj64000
+",2023-10-28
+81,2018 Mazda BT-50 PRO FREESTYLE CAB HI-RACER (ABS) 2.2,-,"437,900
+          บาท","69,535",ดีเซล,เทา,"CARSOME Rangsit, Khlong Luang",เบาะที่นั่งคนขับ พลาสติกรางเบาะที่นั่งคนขับไม่มี เบาะที่นั่งคนขับ พลาสติกรางเบาะที่นั่งคนขับไม่มี เบาะที่นั่งผู้โดยสารด้านหน้า ฝาครอบขาเบาะที่นั่งผู้โดยสารด้านหน้าไม่มี,carsome,"buy-car/mazda/bt-50-pro/2018-mazda-bt-50-pro-freestyle-cab-hi-racer--abs--2.2/c594000
+",2023-10-28
+82,2019 Mazda BT-50 PRO FREESTYLE CAB HI-RACER 2.2,-,"386,900
+          บาท","111,092",ดีเซล,น้ำตาล,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/bt-50-pro/2019-mazda-bt-50-pro-freestyle-cab-hi-racer-2.2/c724000
+",2023-10-28
+83,2018 Mazda 3 S SPORTS 2.0,-,"585,900
+          บาท","144,720",เบนซิน,แดง,"CARSOME Ratchayothin, Lat Phrao",,carsome,"buy-car/mazda/3/2018-mazda-3-s-sports-2.0/c664000
+",2023-10-28
+84,2018 Mazda 2 SPORTS HIGH PLUS 1.3,-,"435,900
+          บาท","126,794",เบนซิน,แดง,"CARSOME Bangyai, Pak Kret",แผงประตูหลังขวา พลาสติกแผงประตูหลังขวาแตก,carsome,"buy-car/mazda/2/2018-mazda-2-sports-high-plus-1.3/cde4000
+",2023-10-28
+85,2019 Mazda 2 HIGH CONNECT 1.3,-,"423,900
+          บาท","96,758",เบนซิน,เทา,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-high-connect-1.3/c7a4000
+",2023-10-28
+86,2018 Mazda 2 HIGH CONNECT 1.3,-,"398,900
+          บาท","68,969",เบนซิน,เทา,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2018-mazda-2-high-connect-1.3/cie4000
+",2023-10-28
+87,2014 Mazda CX-5 S 2.0,-,"475,900
+          บาท","124,290",เบนซิน,น้ำเงิน,"CARSOME Srinagarindra, Pra Vet",กระจกมองหลัง กระจกมองหลังเสื่อมสภาพ,carsome,"buy-car/mazda/cx-5/2014-mazda-cx-5-s-2.0/ccz3000
+",2023-10-28
+88,2019 Mazda CX-5 C 2.0,-,"779,900
+          บาท","101,577",เบนซิน,เทา,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/cx-5/2019-mazda-cx-5-c-2.0/ckx3000
+",2023-10-28
+89,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,-,"426,900
+          บาท","18,424",เบนซิน,น้ำเงิน,"CARSOME Rangsit, Khlong Luang",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cxd4000
+",2023-10-28
+90,2017 Mazda 2 XD HIGH PLUS L 1.5,-,"467,900
+          บาท","37,569",ดีเซล,แดง,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2017-mazda-2-xd-high-plus-l-1.5/cvv3000
+",2023-10-28
+91,2019 Mazda CX-3 S 2.0,-,"592,900
+          บาท","104,692",เบนซิน,ขาว,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/cx-3/2019-mazda-cx-3-s-2.0/cre4000
+",2023-10-28
+92,2017 Mazda 3 S 2.0,-,"468,900
+          บาท","83,413",เบนซิน,น้ำเงิน,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/3/2017-mazda-3-s-2.0/cbe4000
+",2023-10-28
+93,2016 Mazda 2 SKYACTIV HIGH PLUS 1.3,-,"359,900
+          บาท","64,038",เบนซิน,แดง,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2016-mazda-2-skyactiv-high-plus-1.3/chi4000
+",2023-10-28
+94,2016 Mazda 2 SKYACTIV HIGH PLUS 1.3,-,"359,900
+          บาท","159,995",เบนซิน,น้ำตาล,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/2/2016-mazda-2-skyactiv-high-plus-1.3/cuh4000
+",2023-10-28
+95,2020 Mazda 2 S 1.3,-,"452,900
+          บาท","83,377",เบนซิน,เทา,"CARSOME Srinagarindra, Pra Vet",กระจกประตูหน้าซ้าย กระจกประตูหน้าซ้ายมีรอยขีด กระจกประตูหลังซ้าย กระจกประตูหลังซ้ายมีรอยขีด,carsome,"buy-car/mazda/2/2020-mazda-2-s-1.3/c6l4000
+",2023-10-28
+96,2019 Mazda 2 SPORTS HIGH CONNECT 1.3,-,"423,900
+          บาท","58,359",เบนซิน,น้ำตาล,"CARSOME Bangbon, Bang Bon",,carsome,"buy-car/mazda/2/2019-mazda-2-sports-high-connect-1.3/cci4000
+",2023-10-28
+97,2017 Mazda 3 SP SPORTS 2.0,-,"579,900
+          บาท","78,765",เบนซิน,ดำ,"CARSOME Srinagarindra, Pra Vet",,carsome,"buy-car/mazda/3/2017-mazda-3-sp-sports-2.0/cjq4000
+",2023-10-28
