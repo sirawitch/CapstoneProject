@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Read Data
-df = pd.read_csv(r'C:\Users\nonew\Desktop\Capstone\Project\WebScrapData\One2Car\Data.csv')
+df = pd.read_csv('./WebScrapData/One2Car/Data.csv')
 
 # Change 'cost' col
 df['cost'] = df['cost'].apply(lambda x : x.replace(',',''))
@@ -150,4 +150,4 @@ cols = ['car_year', 'brand', 'model', 'sub_model', 'sub_model_name', 'car_type',
 df = df[cols]
 
 # Save csv
-df.to_csv('data_one2car.csv')
+df.to_csv('./AppraisalDataPreprocessing/data_one2car.csv')
