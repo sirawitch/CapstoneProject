@@ -1,3 +1,5 @@
 test
 Airflow/logs
 Airflow/dags/__pycache__
+*/.DS_Store
+.DS_Store
