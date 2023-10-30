@@ -7,7 +7,6 @@ import pandas as pd
 from datetime import date
 chrome_service = ChromeService(
     '/Users/sirawitchtiyasuttipun/Downloads/chromedriver-mac-arm64_2/chromedriver')
-choose = 0
 df=pd.DataFrame()
 f = open("carsome.txt", "r")
 driver = webdriver.Chrome(service=chrome_service)
@@ -38,24 +37,13 @@ for line in f:
             text = div.get_text()
             if "เชื้อเพลิง" in text:
                  fuel = text.strip()[17:]
-                 #print(text.strip()[17:])
             elif "สี" in text:
                  color = text.strip()[3:]
-                 #print(text.strip()[3:])
             elif "ระยะทาง" in text:
                  km = text.strip()[14:-4]
-                 #print(text.strip()[14:-4])
         injure = soup.find("div", class_="damage-images").find("div",class_="swiper-box").get_text().strip()
         d=pd.DataFrame({'id':[id],'name':[name],'price':[price],'salePrice':[salePrice],'distance':[km],'fuel':[fuel],'color':[color],'address':[address],'injure':[injure],'web':['carsome'],'webid':[webid[1:]],'date':[today]})
         df=pd.concat([df,d])
         driver.quit()
-        continue
-        if skip==1:
-            print(line)
-            driver.close()
-            continue
-        row =  pd.DataFrame({'Version':[head],'generalInfo':[generalInfo],'distance':[km],'update':[update],'cost':[cost],'other':[otherdata]})
-        df=pd.concat([df,row])
-        driver.close()
 df.to_csv("DataFromCarsome.csv",index=False)
 print("Done")

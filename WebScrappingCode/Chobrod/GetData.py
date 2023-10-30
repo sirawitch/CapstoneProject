@@ -7,7 +7,6 @@ import pandas as pd
 from datetime import date
 chrome_service = ChromeService(
     '/Users/sirawitchtiyasuttipun/Downloads/chromedriver-mac-arm64_2/chromedriver')
-choose = 0
 df=pd.DataFrame()
 f = open("chobrod.txt", "r")
 driver = webdriver.Chrome(service=chrome_service)
@@ -20,18 +19,14 @@ for line in f:
         driver.get("https://chobrod.com"+line)
         html_data = driver.page_source
         soup = BeautifulSoup(html_data, "html.parser")
-        div = soup.find("div", class_ ="group-price")
-        if(div==None):
+        costDiv = soup.find("div", class_ ="group-price")
+        if(costDiv==None):
               driver.quit()
               continue
-        text_data = div.get_text()
+        text_data = costDiv.get_text()
         if("฿" in text_data):
-                #print(text_data[51:])
                 cost = text_data[51:]
-        
         name = soup.select('h1.title')[0].text.strip()
-        #print(name)
-        Car = div
         div = soup.find("div", class_ ="group-inline")
         if(div==None):
               driver.quit()
@@ -46,21 +41,11 @@ for line in f:
                 mile = text[:-3]
             a+=1
         div = soup.find("div",class_="box-author")
-        seller = div.find("div",class_="title")
-        seller=seller.get_text()
+        seller = div.find("div",class_="title").get_text()
         div = soup.find("div",class_="box-detail-seller")
-        address = div.find("ul").find("li")
-        address = address.get_text().strip()
+        address = div.find("ul").find("li").get_text().strip()
         d=pd.DataFrame({'id':[id],'name':[name],'cost':[cost],'mile':[mile],'gear':[gear],'seller':[seller],'address':[address],'web':['chobrod'],'webid':[webid[1:]],'date':[today]})
         df=pd.concat([df,d])
         driver.quit()
-        continue
-        if skip==1:
-            print(line)
-            driver.close()
-            continue
-        row =  pd.DataFrame({'Version':[head],'generalInfo':[generalInfo],'distance':[km],'update':[update],'cost':[cost],'other':[otherdata]})
-        df=pd.concat([df,row])
-        driver.close()
 df.to_csv("DataFromChobrod.csv",index=False)
 print("Done")

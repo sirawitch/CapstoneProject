@@ -18,15 +18,11 @@ c=0
 for line in f:
         id+=1
         webid=line
-        #driver = webdriver.Chrome(service=chrome_service)
-        #driver.get("https://rod.kaidee.com"+line)
         if(id%100==0):
             print(id)
-        #html_data = driver.page_source
         header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'}
         html_data = requests.get("https://rod.kaidee.com"+line,headers=header).text
         soup = BeautifulSoup(html_data, "html.parser")
-        #print(line)
         if soup.find("div",class_="sc-y6put5-0")==None:
              title="-"
         else:title = soup.find("div",class_="sc-y6put5-0").get_text().strip()

@@ -10,8 +10,6 @@ for year in range(1996, 2024):
     driver = webdriver.Chrome(service=chrome_service)
     driver.get('https://www.taladrod.com/w40/isch/schc.aspx?fno:all+mk:32+gr:b+y1:' +
                str(year)+'+y2:'+str(year)+'+gs:n')
-    # element=driver.find_element(By.XPATH,"//div[@id='Car_List']")
-    # data= element.get_attribute("innerHTML")
     html_data = driver.page_source
     soup = BeautifulSoup(html_data, "html.parser")
     links = soup.find_all("a")
@@ -27,5 +25,3 @@ for year in range(1996, 2024):
             f.write("https://www.taladrod.com/w40"+link.get("href")[2:]+"\n")
     driver.close()
 print("Done")
-# with open('WebScrap/data2023.html', "w", encoding="utf-8") as file:
-#    file.write(data)

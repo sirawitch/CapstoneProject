@@ -6,35 +6,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 chrome_service = ChromeService(
     '/Users/sirawitchtiyasuttipun/Downloads/chromedriver-mac-arm64/chromedriver')
-choose = 0
 df=pd.DataFrame()
-for year in range(2020, 2024):
-    # element=driver.find_element(By.XPATH,"//div[@id='Car_List']")
-    # data= element.get_attribute("innerHTML")
-    #html_data = driver.page_source
-    #soup = BeautifulSoup(html_data, "html.parser")
-    #links = soup.find_all("a")
-    f = open("WebScrap/Link"+str(year)+".txt", "r")
-    #for link in links:
-    #    if link.get("href") == None:
-    #        continue
-    #    if "../icar" in link.get("href"):
-    #        choose = 1-choose
-    #        if choose == 0:
-    #            continue
-    #        print("https://www.taladrod.com/w40"+link.get("href")[2:])
-    #        f.write("https://www.taladrod.com/w40"+link.get("href")[2:]+"\n")
-    #driver.close()
+for year in range(2020, 2024): #select year from Link
+    f = open("WebScrap/Link"+str(year)+".txt", "r") # you must change path of file because project structor is changed
     for line in f:
         driver = webdriver.Chrome(service=chrome_service)
         driver.get(line)
         html_data = driver.page_source
         soup = BeautifulSoup(html_data, "html.parser")
-        #divs = soup.find_all("div", class_="txt")
-        #for div in divs:
-        #    print(div)
         divs = soup.find_all("div", class_="txt")
-        # Extract and print the text from each div
         skip = 0
         afterbaht=0
         otherdata=""

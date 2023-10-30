@@ -11,8 +11,6 @@ page=1
 f = open("chobrod.txt", "w+")
 for page in range(1,68):
     driver.get('https://chobrod.com/car-mazda/p'+str(page))
-    # element=driver.find_element(By.XPATH,"//div[@id='Car_List']")
-    # data= element.get_attribute("innerHTML")
     html_data = driver.page_source
     soup = BeautifulSoup(html_data, "html.parser")
     div = soup.find("div",class_="list-product")
@@ -26,9 +24,6 @@ for page in range(1,68):
                 continue
             laststr = link.get("href")
             print(link.get("href"))
-            f.write(link.get("href")+"\n")
-    
+            f.write(link.get("href")+"\n")   
 driver.quit()
 print("Done")
-# with open('WebScrap/data2023.html', "w", encoding="utf-8") as file:
-#    file.write(data)

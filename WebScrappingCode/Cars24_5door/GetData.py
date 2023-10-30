@@ -7,7 +7,6 @@ import pandas as pd
 from datetime import date
 chrome_service = ChromeService(
     '/Users/sirawitchtiyasuttipun/Downloads/chromedriver-mac-arm64_2/chromedriver')
-choose = 0
 df=pd.DataFrame()
 f = open("cars24_5door_link.txt", "r")
 driver = webdriver.Chrome(service=chrome_service)
@@ -30,33 +29,19 @@ for line in f:
             text = div.get_text()
             if "ออกรถ" in text:
                 year=text[10:]
-                #print(text[10:])
             elif "ทะเบียน" in text:
                 tabian=text[8:]
-                #print(text[8:])
             elif "สี" in text:
                 color=text[2:]
-                #print(text[2:])
             elif "เกียร์" in text:
                  gear=text[10:]
-                #print(text[10:])
             elif "เครื่องยนต์" in text:
                 fuel=text[11:]
-                #print(text[11:])
             elif "ระยะทาง" in text:
                 km=text[13:-4]
-                #print(text[13:-4])
         injure = soup.find("div",class_="_1Wk7G").get_text().strip()
         d=pd.DataFrame({'id':[id],'year':[year],'tabian':[tabian],'name':[name],'addName':[addName],'salePrice':[salePrice],'notSalePrice':[notSalePrice],'distance':[km],'fuel':[fuel],'gear':[gear],'color':[color],'injure':[injure],'door':[5],'address':['Bangkok'],'web':['cars24'],'webid':[webid],'date':[today]})
         df=pd.concat([df,d])
         driver.quit()
-        continue
-        if skip==1:
-            print(line)
-            driver.close()
-            continue
-        row =  pd.DataFrame({'Version':[head],'generalInfo':[generalInfo],'distance':[km],'update':[update],'cost':[cost],'other':[otherdata]})
-        df=pd.concat([df,row])
-        driver.close()
 df.to_csv("DataFromCars24.csv",index=False)
 print("Done")

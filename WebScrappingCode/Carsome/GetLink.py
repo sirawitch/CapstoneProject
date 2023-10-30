@@ -11,8 +11,6 @@ page=1
 f = open("carsome.txt", "w+")
 for page in range(1,7):
     driver.get('https://www.carsome.co.th/buy-car/mazda?pageNo='+str(page))
-    # element=driver.find_element(By.XPATH,"//div[@id='Car_List']")
-    # data= element.get_attribute("innerHTML")
     html_data = driver.page_source
     soup = BeautifulSoup(html_data, "html.parser")
     links = soup.find_all("a")
@@ -24,9 +22,6 @@ for page in range(1,7):
             if(laststr == link.get("href")):
                 continue
             laststr = link.get("href")
-            #print(link.get("href"))
             f.write(link.get("href")+"\n")
 driver.quit()
 print("Done")
-# with open('WebScrap/data2023.html', "w", encoding="utf-8") as file:
-#    file.write(data)
