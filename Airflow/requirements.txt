@@ -1,4 +1,4 @@
 bs4
 selenium==4.16.0
 pandas
-request
+requests
