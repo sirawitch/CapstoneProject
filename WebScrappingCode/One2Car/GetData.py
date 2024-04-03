@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 def getData():
     from bs4 import BeautifulSoup
     import pandas as pd
@@ -22,6 +23,29 @@ def getData():
         respond = requests.get(line, headers=headers)
         html_data = respond.content
         print(html_data)
+=======
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from bs4 import BeautifulSoup
+import pandas as pd
+from datetime import date
+chrome_service = ChromeService(
+    '/Users/sirawitchtiyasuttipun/Downloads/chromedriver2/chromedriver')
+df=pd.DataFrame()
+f = open("one2car.txt", "r")
+driver = webdriver.Chrome(service=chrome_service)
+today = date.today()
+id=0
+for line in f:
+        id+=1
+        webid=line[33:]
+        #print(line[33:])
+        driver = webdriver.Chrome(service=chrome_service)
+        driver.get(line)
+        html_data = driver.page_source
+>>>>>>> Stashed changes
         soup = BeautifulSoup(html_data, "html.parser")
         costDiv = soup.find(
             "div",
